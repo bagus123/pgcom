@@ -14,5 +14,5 @@ how to deploy this source
 
 
 link :
-https://netbeans.org/community/releases/80/cpp-setup-instructions.html
-https://github.com/jtv/libpqxx
+1. https://netbeans.org/community/releases/80/cpp-setup-instructions.html
+2. https://github.com/jtv/libpqxx
