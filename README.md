@@ -12,6 +12,9 @@ how to deploy this source
 4. install postgre client for c++ using cygwin
      libpqxx
 
+How to use
+pgcom.exe [hostname] [db_name] [user] [pass] "select * from users"
+
 
 link :
 1. https://netbeans.org/community/releases/80/cpp-setup-instructions.html
